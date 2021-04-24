@@ -1,7 +1,7 @@
 {
     "name": "php-coord/datapack-oceania",
     "description": "PHPCoord high-accuracy addon datapack for Oceania",
-    "keywords": ["coord", "geo", "latitude", "longitude", "grid ref", "map", "projection", "wgs84", "osgb36", "utm", "nad", "nzmg", "gda", "ed50", "epsg", "oceania"],
+    "keywords": ["coord", "geo", "latitude", "longitude", "grid ref", "map", "projection", "oceania"],
     "type": "library",
     "homepage": "https://www.phpcoord.net/",
     "authors": [
