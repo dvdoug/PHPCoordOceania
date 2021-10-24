@@ -10,10 +10,8 @@ namespace PHPCoord\CoordinateOperation;
 
 class GTXBluff1955NZVD2016Provider implements GridProvider
 {
-    private GTXGrid $cache;
-
     public function provideGrid(): GTXGrid
     {
-        return $this->cache ??= new GTXGrid(__DIR__ . '/../../resources/blufht1955-nzvd2016.gtx');
+        return new GTXGrid(__DIR__ . '/../../resources/blufht1955-nzvd2016.gtx');
     }
 }
