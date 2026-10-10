@@ -151,7 +151,7 @@ Creative Commons is not a party to its public licenses. Notwithstanding, Creativ
 Creative Commons may be contacted at creativecommons.org.
 
 
-Grids from Gouvernement de Nouvelle Calédonie (https://dittt.gouv.nc/circe-pour-la-nouvelle-caledonie, downloaded 20210919)
+Grids from Gouvernement de Nouvelle Calédonie (https://dittt.gouv.nc/circe-pour-la-nouvelle-caledonie, downloaded 20210919). gr3dncI08.tac and grmmncI08.tac from Circé NC 5.2, same page, downloaded 20261003. ggfutuna2022v2.tac is ggfutuna2022v2.mnt from IGN France (https://geodesie.ign.fr/index.php?page=grilles, downloaded 20261003).
 LICENCE OUVERTE / OPEN LICENCE
 
 ===================================================================
