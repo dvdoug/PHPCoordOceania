@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+### Changed
+- Updates to extents for American Samoa, Guam and Northern Mariana Islands
 
 ## [1.6.0] - 2026-10-10
 ### Added
