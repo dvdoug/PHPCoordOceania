@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+
+## [1.6.0] - 2026-10-10
 ### Added
 - Grid files for Futuna and New Caledonia
 
