@@ -1,8 +1,10 @@
 # Changelog
 
 ## [Unreleased]
+### Added
+- Grid files for American Samoa, Guam, Northern Mariana Islands and US Minor Outlying Islands
 ### Changed
-- Updates to extents for American Samoa, Guam and Northern Mariana Islands
+- Updates to extents for American Samoa, Guam, Northern Mariana Islands and US Minor Outlying Islands
 
 ## [1.6.0] - 2026-10-10
 ### Added
